@@ -1,0 +1,144 @@
+{
+    "data": {
+        "normal_filters": {
+            "cut": {
+                "0": "",
+                "25": "Fair",
+                "50": "Good",
+                "75": "Very Good",
+                "100": "Excellent"
+            },
+            "color": {
+                "0": "",
+                "10": "M",
+                "20": "L",
+                "30": "K",
+                "40": "J",
+                "50": "I",
+                "60": "H",
+                "70": "G",
+                "80": "F",
+                "90": "E",
+                "100": "D"
+            },
+            "clarity": {
+                "0": "",
+                "11": "I1",
+                "22": "SI2",
+                "33": "SI1",
+                "44": "VS2",
+                "55": "VS1",
+                "66": "VVS2",
+                "77": "VVS1",
+                "88": "IF",
+                "100": "FL"
+            },
+            "carat": {
+                "min": 0,
+                "max": 30
+            },
+            "price": {
+                "min": 0,
+                "max": 500000
+            },
+            "shape": [
+                {
+                    "name": "Round",
+                    "value": "Round",
+                    "icon": "https://malaknew.belgiumwebnet.com/webapi/assets/images/diamond_shape/round.png",
+                    "status": 1,
+                    "selected": 0
+                },
+                {
+                    "name": "Princess",
+                    "value": "Princess",
+                    "icon": "https://malaknew.belgiumwebnet.com/webapi/assets/images/diamond_shape/princess.png",
+                    "status": 1,
+                    "selected": 0
+                },
+                {
+                    "name": "Cushion",
+                    "value": "Cushion",
+                    "icon": "https://malaknew.belgiumwebnet.com/webapi/assets/images/diamond_shape/cushion.png",
+                    "status": 1,
+                    "selected": 0
+                },
+                {
+                    "name": "Emerald",
+                    "value": "Emerald",
+                    "icon": "https://malaknew.belgiumwebnet.com/webapi/assets/images/diamond_shape/emerald.png",
+                    "status": 1,
+                    "selected": 0
+                },
+                {
+                    "name": "Oval",
+                    "value": "Oval",
+                    "icon": "https://malaknew.belgiumwebnet.com/webapi/assets/images/diamond_shape/oval.png",
+                    "status": 1,
+                    "selected": 0
+                },
+                {
+                    "name": "Radiant",
+                    "value": "Radiant",
+                    "icon": "https://malaknew.belgiumwebnet.com/webapi/assets/images/diamond_shape/radiant.png",
+                    "status": 1,
+                    "selected": 0
+                },
+                {
+                    "name": "Asscher",
+                    "value": "Asscher",
+                    "icon": "https://malaknew.belgiumwebnet.com/webapi/assets/images/diamond_shape/asscher.png",
+                    "status": 1,
+                    "selected": 0
+                },
+                {
+                    "name": "Marquise",
+                    "value": "Marquise",
+                    "icon": "https://malaknew.belgiumwebnet.com/webapi/assets/images/diamond_shape/marquise.png",
+                    "status": 1,
+                    "selected": 0
+                },
+                {
+                    "name": "Heart",
+                    "value": "Heart",
+                    "icon": "https://malaknew.belgiumwebnet.com/webapi/assets/images/diamond_shape/heart.png",
+                    "status": 1,
+                    "selected": 0
+                },
+                {
+                    "name": "Pear",
+                    "value": "Pear",
+                    "icon": "https://malaknew.belgiumwebnet.com/webapi/assets/images/diamond_shape/pear.png",
+                    "status": 1,
+                    "selected": 0
+                }
+            ]
+        },
+        "advance_filters": {
+            "fluorescence": {
+                "0": "",
+                "20": "Very Strong",
+                "40": "Strong",
+                "60": "Medium",
+                "80": "Faint",
+                "100": "None"
+            },
+            "polish": {
+                "0": "",
+                "25": "Fair",
+                "50": "Good",
+                "75": "Very Good",
+                "100": "Excellent"
+            },
+            "symmetry": {
+                "0": "",
+                "25": "Fair",
+                "50": "Good",
+                "75": "Very Good",
+                "100": "Excellent"
+            }
+        }
+    },
+    "status": 1,
+    "message": "Diamond filters"
+}
